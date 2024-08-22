@@ -1,0 +1,30 @@
+body {
+    color:pink rgb(211, 65, 162);
+    background: rgb(138, 65, 197);
+    margin: 0px;
+    font-family: "Exo 2", sans-serif;
+
+}
+
+ header {
+
+ border-bottom: solid 2px pink(235,192,255);
+ padding: 20px;
+ font-size: 32px;
+color: pink(235,192,255)
+
+
+ }
+
+
+ section{
+
+    background: pink(164,164,194);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex ;
+    justify-content: center;
+
+ }
+
+ 
